@@ -1,0 +1,106 @@
+body{
+    font-family: 'Roboto', sans-serif; ;
+    margin: 0;
+}
+h1{
+    font-size: 50px;
+}
+h2{
+    font-size: 40px;
+}
+p{
+    color: dimgray;
+}
+.orange-highlight{
+    color: orangered;
+}
+.half-width{
+    width: 40%;
+    float: left;
+    margin-left:5%;
+    padding-left: 2%;
+    
+}
+.half-width img{
+    width: 100%;
+}
+
+section{
+    height: 500px;
+    padding-bottom: 100px;
+}
+.link-button{
+    text-decoration: none;
+    border-radius: 5px;
+    font-weight: 700;
+    color: white;
+    background-image: linear-gradient(45deg, lightSalmon, tomato);
+    padding: 10px 20px;
+}
+
+#about-me{
+    padding-left: 105px;
+}
+.project{
+    background-color: darkgray;
+    width: 100%;
+    padding-top: 20px;
+}
+#project-me{
+    text-align: center;
+}
+.third-width{
+    width: 25%;
+    float: left;
+    margin-left:5%;
+    padding-left: 2%;
+    border-radius: 10px;
+}
+.third-width img{
+    width: 100%;
+}
+
+.portfolio{
+    height: auto;
+    background-color: white;
+}
+.our-team{
+    background-color: dimgray;
+    width: 100%;
+    padding-top: 20px;
+    /* height: 200px; */
+}
+.work-inquiry{
+    height: 200px;
+    /* width: 100%; */
+    margin: 10% 15%;
+    background-image: url(images/Group_33094_1.png);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+
+}
+#inquiry-position{
+    color: white;
+    text-align: center;
+    padding-top: 35px;
+}
+.chat-button{
+    text-align: center;
+    padding-top: 8%;
+    padding-left: 8%;
+}
+.chat-button a {
+    text-align: center;
+    display: block;
+    width: 30%;
+    
+}
+#stay{
+    color: dimgray;
+    text-align: center;
+    text-transform: uppercase;
+}
+#email{
+    text-align: center;
+}
